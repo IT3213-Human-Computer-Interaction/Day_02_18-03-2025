@@ -11,7 +11,7 @@
 
 
 #
-## Step 1: Add Page Loaded Interaction
+## Step 2: Add Page Loaded Interaction
 
 ```bash
 1. Set the global variable Flag to 'Replace'.
@@ -20,7 +20,7 @@
 <img width="194" alt="image" src="https://github.com/user-attachments/assets/c8da0154-0d49-4e29-80b8-66b0494b4639" />
 
 #
-## Step 1: Add the Click Interactions for 1-9 Buttons
+## Step 3: Add the Click Interactions for 1-9 Buttons
 
 ```bash
 1. If the global variable Flag is equal to 'Join', set the 'Input' text to [[Target.text]][[This.text]] .
